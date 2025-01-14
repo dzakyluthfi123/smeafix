@@ -15,6 +15,7 @@
     <br>
     <br>
     <br>
+    <br>
     <div class="containersambutankepalasekolah">
         <h4 class="home" style="font-size: 20px; margin-top: 4px;">Home</h4>
         <i class="fa fa-angle-right icon" style="font-size: 20px;"></i>
